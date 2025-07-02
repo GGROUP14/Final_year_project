@@ -4,7 +4,6 @@ Class bunking and student disengagement are major challenges in educational inst
 These issues negatively impact academic performance and create ineffective learning environments.
 Traditional attendance systems are:
   Time-consuming,
-  Manual and prone to human error,
   Vulnerable to proxy attendance,
   Lacking real-time monitoring and accountability.
 
