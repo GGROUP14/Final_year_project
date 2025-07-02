@@ -1,4 +1,5 @@
 Problem Statement:
+
 Class bunking and student disengagement are major challenges in educational institutions.
 These issues negatively impact academic performance and create ineffective learning environments.
 Traditional attendance systems are:
@@ -9,6 +10,7 @@ Traditional attendance systems are:
 
 
 Objectives:
+
 To build an AI-powered anti-bunking system for educational institutions.
 To implement real-time face recognition using:
   Convolutional Neural Networks (CNNs),
