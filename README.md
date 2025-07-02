@@ -6,7 +6,7 @@ Traditional attendance systems are:
   Manual and prone to human error,
   Vulnerable to proxy attendance,
   Lacking real-time monitoring and accountability.
-There is a need for a smart, automated, and secure solution to accurately track student attendance and promote discipline.
+
 
 Objectives:
 To build an AI-powered anti-bunking system for educational institutions.
