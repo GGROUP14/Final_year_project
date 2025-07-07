@@ -10,10 +10,16 @@ Traditional attendance systems are:
 
 Objectives:
 
-To build an AI-powered anti-bunking system for educational institutions.
-To implement real-time face recognition using:
-  Convolutional Neural Networks (CNNs),
-  OpenCV,
-  Deep learning algorithms.
-To automate attendance recording as students enter classrooms.
-To integrate real-time video surveillance for continuous classroom monitoring.
+To develop an AI-powered attendance and surveillance system for schools and colleges.
+
+To allow faculty to mark attendance manually through an easy-to-use GUI.
+
+To detect students marked absent but found outside the classroom using face recognition.
+
+To raise real-time alerts for students outside without permission.
+
+To integrate class period timings and automatically handle breaks and schedule changes.
+
+To ensure each student is only alerted once per class period.
+
+To allow teachers to give permission for students to be outside when needed.
