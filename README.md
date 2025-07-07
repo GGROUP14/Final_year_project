@@ -1,4 +1,4 @@
-Problem Statement:
+PROBLEM STATEMENT:
 
 Class bunking and student disengagement are major challenges in educational institutions.
 These issues negatively impact academic performance and create ineffective learning environments.
@@ -7,19 +7,27 @@ Traditional attendance systems are:
   Vulnerable to proxy attendance,
   Lacking real-time monitoring and accountability.
 
+OBJECTIVES:
 
-Objectives:
+1.automatically detect and record attendance as students enter the classroom using face recognition.
 
--To develop an AI-powered attendance and surveillance system for schools and colleges.
+2.eliminate manual roll calls and prevent proxy attendance.
 
--To allow faculty to mark attendance manually through an easy-to-use GUI.
+3.implement Convolutional Neural Networks (CNNs) and deep learning for high-accuracy face recognition.
 
--To detect students marked absent but found outside the classroom using face recognition.
+4.utilize OpenCV for real-time video processing and facial data capture.
 
--To raise real-time alerts for students outside without permission.
+5.enable real-time monitoring of students using AI-powered surveillance.
 
--To integrate class period timings and automatically handle breaks and schedule changes.
 
--To ensure each student is only alerted once per class period.
 
--To allow teachers to give permission for students to be outside when needed.
+
+
+
+
+
+
+
+
+
+6.maintain a centralized attendance management system for better tracking and reporting.
